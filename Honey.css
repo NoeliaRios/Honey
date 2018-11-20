@@ -1,0 +1,29 @@
+body{
+    background:#ffd900;
+    font-family:verdana, sans-serif;
+}
+
+.header{
+    width:90%;
+}
+
+.imagen1{
+    width:30%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.menuhorizontal{
+    background:rgb(255, 195, 195);
+    text-align: center;
+}
+
+.imagen2{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.box{
+    background:pink;
+}
